@@ -2,4 +2,4 @@
 
 Working on a game engine in secret.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=almartdev&show_icons=true&bg_color=fffffff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmartDev&show_icons=true&theme=white)
